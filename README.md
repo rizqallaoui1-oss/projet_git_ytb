@@ -9,6 +9,7 @@ git remote add origin SSH_URL
    
  ## rediger un commit
 Titre de commit 
+
 description de notre commit avec des information sur l'evolution de projet
 ## envoyer un commit sur le depot distant
  ''' bash
@@ -16,3 +17,6 @@ description de notre commit avec des information sur l'evolution de projet
  git commit -m " titre de commit"
  git push origin main
  '''' 
+
+ ## creation d'une branch
+ git checkout -b nom_branch
