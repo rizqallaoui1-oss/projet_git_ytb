@@ -4,3 +4,8 @@
 git init
 git remote add origin SSH_URL
 ````
+
+
+    ## rediger un commit
+    Titre de commit 
+    description de notre commit avec des information sur l'evolution de projet
