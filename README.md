@@ -14,7 +14,11 @@ description de notre commit avec des information sur l'evolution de projet
 ## envoyer un commit sur le depot distant
  ''' bash
  git add .
+<<<<<<< HEAD
+ git commit -m " titre de commenter"
+=======
  git commit -m " un commenter"
+>>>>>>> main
  git push origin main
  '''' 
 
